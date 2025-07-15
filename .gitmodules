@@ -1,0 +1,3 @@
+[submodule "fbdoom"]
+	path = fbdoom
+	url = https://github.com/andreacampanella/fbdoom
