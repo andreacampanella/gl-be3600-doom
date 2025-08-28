@@ -1,8 +1,8 @@
-# gl-be6300-doom
+# gl-be3600-doom
 
-Run **DOOM** on the GL.iNet **GL-BE6300** router with framebuffer support.
+Run **DOOM** on the GL.iNet **GL-BE3600** router with framebuffer support.
 
-This project is based on [fbDOOM](https://github.com/andreacampanella/fbdoom) and customized to run directly on the framebuffer `/dev/fb0` of the GL-BE6300 (OpenWrt, IPQ5332 SoC).
+This project is based on [fbDOOM](https://github.com/andreacampanella/fbdoom) and customized to run directly on the framebuffer `/dev/fb0` of the GL-BE3600 (OpenWrt, IPQ5332 SoC).
 
 ---
 
